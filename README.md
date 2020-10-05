@@ -5,7 +5,7 @@
 I am Clement Amoasi, prefered to be called Argorn.
 My girlfriend is c++ and I love her very much
 
-Currently pathing out a career in software entrepreneurship business administration
+Currently pathing out a career in software entrepreneurship & business administration
 
 Have some background in security and networking 
 
